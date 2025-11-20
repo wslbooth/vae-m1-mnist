@@ -17,9 +17,9 @@ Improvement demonstrates that the VAE learns useful discriminative latent featur
 
 ## Contents
 
-notebooks/ — Main Colab notebook with complete implementation
+Main Colab notebook with complete implementation
 
-Implementation of:
+Including:
 
 - Variational Autoencoder (encoder + decoder)
 
